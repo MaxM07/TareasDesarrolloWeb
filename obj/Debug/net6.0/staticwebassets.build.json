@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dSWjpNRoFn7dktfTKhicmFUduSWYUVy31L2OsPOmoo8=",
+  "Source": "ApiAlumnos",
+  "BasePath": "_content/ApiAlumnos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
